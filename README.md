@@ -8,6 +8,7 @@ Too lazy to automate this yet... these are the steps I took when setting up a ne
 - Removed all items from dock
 - Make menu and dock always autohide
 - Create new SSH keys
+- Change mission control setting to not rearrange apps
 
 #### Keybinds
 
