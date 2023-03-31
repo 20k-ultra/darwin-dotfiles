@@ -62,6 +62,8 @@ _note: Make sure node is installed before running nvim since the plugins require
 - add userChrome.css from [20k-ultra/dotfiles/firefox](https://github.com/20k-ultra/dotfiles/tree/master/firefox/chrome)
 - customize toolbar and enable title bar
 - verify tree style tab extension settings
+- enable HTTPS everywhere
+  - go to about:preferences#privacy and enable at the bottom of the page
 
 ### Amethyst
 
