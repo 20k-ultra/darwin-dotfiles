@@ -1,5 +1,7 @@
 # Darwin Dotfiles
 
+![Typical layout](layout.png)
+
 Too lazy to automate this yet... these are the steps I took when setting up a new M2 Pro MBP.
 
 ## System
